@@ -1,0 +1,33 @@
+
+body{
+    background-color: rgb(188, 183, 214);
+    font-family: 'Times New Roman', Times, serif;
+    background-image: url(./img);
+}
+
+.colorFondo{
+   background-color: rgb(46, 54, 63);
+}
+
+.colorFondo2{
+    background-color: rgb(198, 226, 43);
+}
+.titulo{
+    text-align:center;
+    font-style: italic;
+}
+
+p{
+    color: rgb(4, 4, 77);
+}
+.collapse{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+
+.card-group{
+    
+    justify-content: center;
+}
